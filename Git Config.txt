@@ -1,0 +1,7 @@
+git config --global user.name "<User_id>"
+git config --global user.email <e-mail>
+
+git config --global core.editor <Текстовый_редактор>
+
+git config --global alias.history 'log --graph'
+
